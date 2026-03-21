@@ -1,0 +1,13 @@
+.icons{
+    width: 800px;
+    height: 150px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: end;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border: 1px solid white;
+}
