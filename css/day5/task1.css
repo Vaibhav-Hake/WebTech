@@ -1,0 +1,11 @@
+.container{
+    height:120 ;
+    width: 600;
+    display: flex;
+    background-color: aqua;
+}
+div{
+    height: 80px;
+    width: 100px;
+    background-color: blueviolet;
+}
