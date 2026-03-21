@@ -1,0 +1,13 @@
+.bix-area{
+    width: 700px;
+    height: 300px;
+     background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+.box{
+    height: 100px;
+     width: 100px;
+    background-color: black;
+    border: 1px solid white;
+}
