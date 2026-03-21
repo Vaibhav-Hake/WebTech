@@ -1,0 +1,8 @@
+/* *{
+    background-color: bisque;
+} */
+div{
+    display: flex;
+    background-color: red;
+     justify-content: space-between;
+}
