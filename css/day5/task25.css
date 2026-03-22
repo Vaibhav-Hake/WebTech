@@ -1,0 +1,10 @@
+.bt:hover{
+    background-color: aquamarine;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100%; */
+
+}

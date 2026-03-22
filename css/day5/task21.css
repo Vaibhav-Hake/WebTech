@@ -1,0 +1,13 @@
+.gap-layout{
+    width: 600px;
+    height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    gap: 20px;
+}
+div{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border: 1px solid white;
+}

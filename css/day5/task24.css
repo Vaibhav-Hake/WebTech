@@ -1,0 +1,13 @@
+.section{
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    display: flex;
+    gap: 30px;
+}
+.box+.box{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border: 1px solid white;
+}
