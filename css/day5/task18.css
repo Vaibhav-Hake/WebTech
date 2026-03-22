@@ -1,0 +1,12 @@
+.nowrap-container{
+    width: 500px;
+    height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    
+}
+div{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}

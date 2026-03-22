@@ -1,0 +1,11 @@
+.galary{
+    width: 600px;
+    height: 400px;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
