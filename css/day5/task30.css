@@ -1,0 +1,17 @@
+.services-section{
+    width: 900px;
+    height: 500px;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+}
+.card{
+   height: 200px;
+    width: 200px;
+    background-color: brown;
+}
+.card:hover{
+    background-color: black;
+}
