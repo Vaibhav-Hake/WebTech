@@ -1,0 +1,14 @@
+.column-layout{
+    width: 200px;
+    height: 500px;
+     background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+   
+}
+div{
+    height: 100px;
+     width: 100px;
+    background-color: black;
+    border: 1px solid white;
+}

@@ -1,0 +1,13 @@
+.row-layout{
+    width: 600px;
+    height: 200px;
+     background-color: aquamarine;
+    display: flex;
+   
+}
+div{
+    height: 100px;
+     width: 100px;
+    background-color: black;
+    border: 1px solid white;
+}
