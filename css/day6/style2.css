@@ -1,0 +1,31 @@
+main{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: blanchedalmond;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+      width: 23%;
+      height: 90%;
+      background-color: aquamarine;
+      border: 1px solid white;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      align-items: end;
+      
+
+}
+div{
+    height: 35%;
+    width: 40%;
+    background-color: blueviolet;
+    border: 1px solid white;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
