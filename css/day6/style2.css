@@ -10,7 +10,7 @@ main{
 .container{
       width: 23%;
       height: 90%;
-      background-color: aquamarine;
+      background-color: rgb(160, 173, 169);
       border: 1px solid white;
       display: flex;
       flex-wrap: wrap;
