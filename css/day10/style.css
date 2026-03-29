@@ -1,0 +1,89 @@
+/* .card{
+    background-color: #3498db;
+    color: white;
+} */
+ /* .card{
+    background-color: rgba(0, 0,0, 50%);
+    color: rgb(28, 26, 26);
+} */
+ /* button{
+    background-color: hsl(150, 50%, 50%);
+ }
+ button:hover{
+    background-color: hsl(150, 50%, 100%);
+ } */
+  /* nav{
+    display: flex;
+  }
+  div{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+  }
+    div+div{
+    width: 100px;
+    height: 100px;
+    background-color: teal;
+  } */
+
+  /* main{
+    display: flex;
+  }
+  div{
+    height: 100px;
+    width: 100px;
+    background-color: hsl(120, 50%, 50%);
+    border: 1px solid;
+  }
+  div+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, green, 0);
+  }
+  div+div+div{
+    height: 100px;
+    width: 100px;
+    background-color: #00ff00;
+  } */
+
+
+  /* //not solved
+  main{
+    display: flex;
+  }
+  div{
+    border: 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: l;
+  } */
+
+  /* div{
+    background-color: transparent;
+    border: 1px solid;
+    height: 200px;
+    width: 200px;
+  } */
+
+  /* main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+  }
+  div{
+    height: 100px;
+    width: 100px;
+     background-color: rgba(0, 255, 0,100%);
+    border: 1px solid;
+  }
+  div+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 255, 0,50%);
+  }
+  div+div+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 255, 0, 10%);
+  } */

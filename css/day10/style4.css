@@ -1,0 +1,131 @@
+/* .box {
+    height: 300px;
+    width: 200px;
+    background: red;
+    padding: 30px;
+    border: 2px solid ;
+} */
+
+/* .box{
+    display: flex;
+}
+
+.box {
+    padding: 20px;
+    background: rgb(197, 12, 12);
+    border: 1px solid;
+}
+
+.box1 {
+     margin: 10px 0 0 0;
+     border: 1px solid;
+    }
+.box2 {
+     margin: 0 20px;
+     border: 1px solid;
+     }
+.box3 {
+     margin: 5px 10px 15px 20px;
+     border: 1px solid;
+     } */
+
+     /* div {
+    margin: 10px;
+    padding: 20px;
+    background-color: bisque;
+}
+
+.first {
+     border: 3px solid black; 
+    }
+.second {
+     border: 3px dashed black;
+     }
+.third {
+     border: 3px dotted black;
+     } */
+/* 
+     .circle {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+}
+
+.rounded {
+    width: 200px;
+    height: 100px;
+    background: pink;
+    border-radius: 20px;
+} */
+
+/* div {
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+.box2 {
+    box-sizing: border-box;
+} */
+
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+}
+
+.middle {
+    margin: auto;
+} */
+
+/* div {
+     background: red;
+      margin: 10px;
+     }
+
+.one {
+     padding: 20px;
+    }
+.two {
+     padding: 10px 30px; 
+    }
+.three {
+     padding: 10px 20px 30px;
+     }
+.four {
+     padding: 5px 10px 15px 20px;
+     } */
+
+
+     /* .card {
+    margin: 50px;
+    padding: 30px;
+    background:red;
+} */
+
+/* .margin { 
+    margin: 20px;
+     background: yellow;
+     }
+.border { 
+    border: 5px solid black; }
+.padding 
+{
+     padding: 20px;
+      background: greenyellow; }
+.content {
+     background:  blueviolet;
+     } */
+
+     .container {
+    display: flex;
+}
+
+.box {
+    width: 150px;
+    padding: 20px;
+    background: pink;
+    margin: 10px;
+}

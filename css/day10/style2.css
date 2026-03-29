@@ -1,0 +1,50 @@
+/* main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+p{
+    text-align: center;
+    
+} */
+
+/* h1{
+    text-transform: uppercase;
+} */
+
+/* main{
+    display: flex;
+    justify-content: space-between;
+}
+/* /* div{
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid; 
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+div+div{
+    text-align: end;
+}
+div+div+div{
+    text-align: left;
+}  */
+
+/* div{
+    text-decoration: overline red;
+} 
+div+div{
+    text-decoration: line-through red;
+} 
+div+div+div{e
+    text-decoration: underline red;
+}  */
+
+button{
+    text-decoration: none;
+}
+button:hover{
+    text-decoration: underline 1px black;
+}
