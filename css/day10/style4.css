@@ -119,7 +119,7 @@
      background:  blueviolet;
      } */
 
-     .container {
+     /* .container {
     display: flex;
 }
 
@@ -128,4 +128,28 @@
     padding: 20px;
     background: pink;
     margin: 10px;
+} */
+
+/* .container {
+    display: flex;
+}
+
+.b1 {
+     border: 2px solid black;
+      padding: 20px;
+     }
+.b2 {
+     border: 5px solid black;
+      padding: 20px;
+     }
+.b3 {
+     border: 10px solid black;
+      padding: 20px ;
+     } */
+.card {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid black;
+    background: #c77b7b;
 }
